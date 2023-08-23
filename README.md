@@ -1,14 +1,4 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=oguzhannx"  />
-</div>
-
-###
 
 <p align="center">Contact With Me</p>
 
@@ -39,7 +29,8 @@
 
 ###
 
-<h2 align="center">Current Resume: <br/><h2 align="center"><a href="https://drive.google.com/file/d/1SGcs91yo2z5QhoR7WtF2dq5DhrFtVc2m/view?usp=drive_link"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/512px-Google_Drive_icon_%282020%29.svg.png"></a>
+<h2 style="font-size: 500;" align="center">Current Resume:<p align="left"></p>
+ <h2 align="center"><a href="https://drive.google.com/file/d/1SGcs91yo2z5QhoR7WtF2dq5DhrFtVc2m/view?usp=drive_link"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/512px-Google_Drive_icon_%282020%29.svg.png"></a>
 </h2></h2>
 
 
@@ -70,6 +61,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
+  <br/>  <br/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
