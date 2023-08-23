@@ -29,7 +29,7 @@
 
 ###
 
-<h2 style="font-size: 500;" align="center">Current Resume:<p align="left"></p>
+<h2 style="font-size: 500;" align="center">Current Resume:
  <h2 align="center"><a href="https://drive.google.com/file/d/1SGcs91yo2z5QhoR7WtF2dq5DhrFtVc2m/view?usp=drive_link"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/512px-Google_Drive_icon_%282020%29.svg.png"></a>
 </h2></h2>
 
