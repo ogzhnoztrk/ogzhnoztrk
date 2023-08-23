@@ -39,10 +39,10 @@
 
 ###
 
-<h2 align="center">Current Resume: </h2>
+<h2 align="center">Current Resume: <br/><h2 align="center"><a href="https://drive.google.com/file/d/1SGcs91yo2z5QhoR7WtF2dq5DhrFtVc2m/view?usp=drive_link"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/512px-Google_Drive_icon_%282020%29.svg.png"></a>
+</h2></h2>
 
-<h2 align="center"><a href="https://drive.google.com/file/d/1SGcs91yo2z5QhoR7WtF2dq5DhrFtVc2m/view?usp=drive_link"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/512px-Google_Drive_icon_%282020%29.svg.png"></a>
-</h2>
+
 
 ###
 
@@ -90,9 +90,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=oguzhannx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzhannx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhannx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=oguzhannx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="300" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=oguzhannx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhannx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
